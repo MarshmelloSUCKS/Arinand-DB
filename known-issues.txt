@@ -1,4 +1,0 @@
-KNOWN ISSUES:
- - Various commands will return an error in the log.
- - The clear command detects the "a-clear" command as a message.
- - The "ban" command acts as a kick command. Users are able to rejoin without ban revoking after being "banned".
